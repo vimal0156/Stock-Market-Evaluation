@@ -4,7 +4,7 @@ A professional, production-ready **Streamlit web application** for advanced tech
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.31.0-FF4B4B.svg)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](LICENSE)
 
 ---
 
@@ -322,3 +322,4 @@ For questions, suggestions, or support:
 ---
 
 *Last Updated: October 2025*
+
